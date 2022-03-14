@@ -6,8 +6,9 @@
   <body>
   <h1> wazz up you guys and welcome back to my recipe website!!! I am Kaiser Antolo </h1>
   <ul>
-    <li><a href="index.php" target="_blank"> HOME </a></li>
+    <li><a href="Homepage.html" target="_blank"> HOME </a></li>
     <li><a href="recipe.html" target= "_blank"> LEARNING TASK 2 </a> </li>
+    <li><a href="Top10.html" target= "_blank"> LEARNING TASK 3 </a> </li>
   </ul>
   </body>
 </html>
