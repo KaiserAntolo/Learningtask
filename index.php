@@ -10,7 +10,7 @@
     <li><a href="recipe.html" target= "_blank"> LEARNING TASK 2 </a> </li>
     <li><a href="Top10.html" target= "_blank"> LEARNING TASK 3 </a> </li>
     <li><a href="CLE1MT.html" target= "_blank"> MIDTERM </a> </li>
-    <li><a href="index.html" target= "_blank"> MIDTERM </a> </li>
+    <li><a href="index.html" target= "_blank"> LEARNING TASK 4 </a> </li>
   </ul>
   </body>
 </html>
