@@ -11,7 +11,8 @@
     <li><a href="Top10.html" target= "_blank"> LEARNING TASK 3 </a> </li>
     <li><a href="CLE1MT.html" target= "_blank"> MIDTERM </a> </li>
     <li><a href="index.html" target= "_blank"> LEARNING TASK 4 </a> </li>
-      <li><a href="LT5/Index.html" target= "_blank"> LEARNING TASK 5 </a> </li>
+    <li><a href="LT5/Index.html" target= "_blank"> LEARNING TASK 5 </a> </li>
+    <li><a href="index.php" target= "_blank"> CLE1 Endterm </a> </li>
   </ul>
   </body>
 </html>
